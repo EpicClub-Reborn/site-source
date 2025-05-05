@@ -6,7 +6,7 @@ if (!function_exists('getDatabaseConnection')) {
             'host' => 'localhost',
             'database' => 'u571375065_epicclubdb',
             'username' => 'u571375065_epicclubusr',
-            'password' => 'v@BX~r1I7',
+            'password' => 'v@BX~r1I7', // This password is changed anyways, goodluck.
         ];
         
         $conn = new mysqli(
