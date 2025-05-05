@@ -1,0 +1,207 @@
+Included database.php at 2025-05-03 05:29:22
+Included database.php at 2025-05-03 05:30:14
+Before loading dependencies at 2025-05-03 05:36:46
+After loading database.php at 2025-05-03 05:36:46
+Instantiating User model at 2025-05-03 05:36:46
+Before loading dependencies at 2025-05-03 05:36:47
+After loading database.php at 2025-05-03 05:36:47
+Instantiating User model at 2025-05-03 05:36:47
+Before loading dependencies at 2025-05-03 05:36:48
+After loading database.php at 2025-05-03 05:36:48
+Instantiating User model at 2025-05-03 05:36:48
+Before loading dependencies at 2025-05-03 05:41:12
+After loading database.php at 2025-05-03 05:41:12
+Instantiating User model at 2025-05-03 05:41:12
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 05:43:28
+getDatabaseConnection NOT defined after including database.php at 2025-05-03 05:43:28
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 05:43:29
+getDatabaseConnection NOT defined after including database.php at 2025-05-03 05:43:29
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 05:47:24
+getDatabaseConnection NOT defined after including database.php at 2025-05-03 05:47:24
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 05:47:25
+getDatabaseConnection NOT defined after including database.php at 2025-05-03 05:47:25
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 05:53:12
+Start parsing config/database.php at 2025-05-03 05:53:12
+Credentials defined in config/database.php at 2025-05-03 05:53:12
+After loading dependencies at 2025-05-03 05:53:12
+getDatabaseConnection NOT defined in User.php at 2025-05-03 05:53:12
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 05:53:13
+Start parsing config/database.php at 2025-05-03 05:53:13
+Credentials defined in config/database.php at 2025-05-03 05:53:13
+After loading dependencies at 2025-05-03 05:53:13
+getDatabaseConnection NOT defined in User.php at 2025-05-03 05:53:13
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 05:53:13
+Start parsing config/database.php at 2025-05-03 05:53:13
+Credentials defined in config/database.php at 2025-05-03 05:53:13
+After loading dependencies at 2025-05-03 05:53:13
+getDatabaseConnection NOT defined in User.php at 2025-05-03 05:53:13
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 05:53:14
+Start parsing config/database.php at 2025-05-03 05:53:14
+Credentials defined in config/database.php at 2025-05-03 05:53:14
+After loading dependencies at 2025-05-03 05:53:14
+getDatabaseConnection NOT defined in User.php at 2025-05-03 05:53:14
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 05:53:14
+Start parsing config/database.php at 2025-05-03 05:53:14
+Credentials defined in config/database.php at 2025-05-03 05:53:14
+After loading dependencies at 2025-05-03 05:53:14
+getDatabaseConnection NOT defined in User.php at 2025-05-03 05:53:14
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 05:53:14
+Start parsing config/database.php at 2025-05-03 05:53:14
+Credentials defined in config/database.php at 2025-05-03 05:53:14
+After loading dependencies at 2025-05-03 05:53:14
+getDatabaseConnection NOT defined in User.php at 2025-05-03 05:53:14
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 05:53:14
+Start parsing config/database.php at 2025-05-03 05:53:14
+Credentials defined in config/database.php at 2025-05-03 05:53:14
+After loading dependencies at 2025-05-03 05:53:14
+getDatabaseConnection NOT defined in User.php at 2025-05-03 05:53:14
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 05:53:14
+Start parsing config/database.php at 2025-05-03 05:53:14
+Credentials defined in config/database.php at 2025-05-03 05:53:14
+After loading dependencies at 2025-05-03 05:53:14
+getDatabaseConnection NOT defined in User.php at 2025-05-03 05:53:14
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 05:53:16
+Start parsing config/database.php at 2025-05-03 05:53:16
+Credentials defined in config/database.php at 2025-05-03 05:53:16
+After loading dependencies at 2025-05-03 05:53:16
+getDatabaseConnection NOT defined in User.php at 2025-05-03 05:53:16
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 05:53:17
+Start parsing config/database.php at 2025-05-03 05:53:17
+Credentials defined in config/database.php at 2025-05-03 05:53:17
+After loading dependencies at 2025-05-03 05:53:17
+getDatabaseConnection NOT defined in User.php at 2025-05-03 05:53:17
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 05:53:18
+Start parsing config/database.php at 2025-05-03 05:53:18
+Credentials defined in config/database.php at 2025-05-03 05:53:18
+After loading dependencies at 2025-05-03 05:53:18
+getDatabaseConnection NOT defined in User.php at 2025-05-03 05:53:18
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 05:53:18
+Start parsing config/database.php at 2025-05-03 05:53:18
+Credentials defined in config/database.php at 2025-05-03 05:53:18
+After loading dependencies at 2025-05-03 05:53:18
+getDatabaseConnection NOT defined in User.php at 2025-05-03 05:53:18
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 05:56:58
+Start parsing config/database.php at 2025-05-03 05:56:58
+Defining getDatabaseConnection at 2025-05-03 05:56:58
+End parsing config/database.php at 2025-05-03 05:56:58
+After loading dependencies at 2025-05-03 05:56:58
+Inside getDatabaseConnection at 2025-05-03 05:56:58
+Connection successful in getDatabaseConnection at 2025-05-03 05:56:58
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 05:57:32
+Start parsing config/database.php at 2025-05-03 05:57:32
+Defining getDatabaseConnection at 2025-05-03 05:57:32
+End parsing config/database.php at 2025-05-03 05:57:32
+After loading dependencies at 2025-05-03 05:57:32
+Inside getDatabaseConnection at 2025-05-03 05:57:32
+Connection successful in getDatabaseConnection at 2025-05-03 05:57:32
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 05:57:33
+Start parsing config/database.php at 2025-05-03 05:57:33
+Defining getDatabaseConnection at 2025-05-03 05:57:33
+End parsing config/database.php at 2025-05-03 05:57:33
+After loading dependencies at 2025-05-03 05:57:33
+Inside getDatabaseConnection at 2025-05-03 05:57:33
+Connection successful in getDatabaseConnection at 2025-05-03 05:57:33
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 05:57:48
+Start parsing config/database.php at 2025-05-03 05:57:48
+Defining getDatabaseConnection at 2025-05-03 05:57:48
+End parsing config/database.php at 2025-05-03 05:57:48
+After loading dependencies at 2025-05-03 05:57:48
+Inside getDatabaseConnection at 2025-05-03 05:57:48
+Connection successful in getDatabaseConnection at 2025-05-03 05:57:48
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 05:57:49
+Start parsing config/database.php at 2025-05-03 05:57:49
+Defining getDatabaseConnection at 2025-05-03 05:57:49
+End parsing config/database.php at 2025-05-03 05:57:49
+After loading dependencies at 2025-05-03 05:57:49
+Inside getDatabaseConnection at 2025-05-03 05:57:49
+Connection successful in getDatabaseConnection at 2025-05-03 05:57:49
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:04:29
+Normalized URI: /public at 2025-05-03 06:04:29
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:04:30
+Normalized URI: /public at 2025-05-03 06:04:30
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:04:31
+Normalized URI: /public at 2025-05-03 06:04:31
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:04:31
+Normalized URI: /public at 2025-05-03 06:04:31
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:06:06
+Normalized URI: /public/test_database.php at 2025-05-03 06:06:06
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:06:08
+Normalized URI: /public at 2025-05-03 06:06:08
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:06:11
+Normalized URI: /public/login.php at 2025-05-03 06:06:11
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:06:13
+Normalized URI: /public/login at 2025-05-03 06:06:13
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:06:17
+Normalized URI: /public/index.php at 2025-05-03 06:06:17
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:06:19
+Normalized URI: /public at 2025-05-03 06:06:19
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:06:24
+Normalized URI: /public at 2025-05-03 06:06:24
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:07:05
+Normalized URI:  at 2025-05-03 06:07:05
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:07:14
+Normalized URI:  at 2025-05-03 06:07:14
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:07:17
+Normalized URI:  at 2025-05-03 06:07:17
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:08:29
+Normalized URI:  at 2025-05-03 06:08:29
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:08:31
+Normalized URI: /login at 2025-05-03 06:08:31
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:10:59
+Normalized URI:  at 2025-05-03 06:10:59
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:11:02
+Normalized URI:  at 2025-05-03 06:11:02
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:19:49
+Normalized URI:  at 2025-05-03 06:19:49
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:22:21
+REQUEST_URI: /public/ at 2025-05-03 06:22:21
+SCRIPT_NAME: /public/index.php at 2025-05-03 06:22:21
+Normalized URI: /public at 2025-05-03 06:22:21
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:22:31
+REQUEST_URI: /login at 2025-05-03 06:22:31
+SCRIPT_NAME: /public/index.php at 2025-05-03 06:22:31
+Normalized URI: /login at 2025-05-03 06:22:31
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:24:22
+REQUEST_URI: / at 2025-05-03 06:24:22
+SCRIPT_NAME: /public/index.php at 2025-05-03 06:24:22
+Normalized URI:  at 2025-05-03 06:24:22
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:24:24
+REQUEST_URI: /login at 2025-05-03 06:24:24
+SCRIPT_NAME: /public/index.php at 2025-05-03 06:24:24
+Normalized URI: /login at 2025-05-03 06:24:24
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:24:26
+REQUEST_URI: / at 2025-05-03 06:24:26
+SCRIPT_NAME: /public/index.php at 2025-05-03 06:24:26
+Normalized URI:  at 2025-05-03 06:24:26
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:24:27
+REQUEST_URI: /register at 2025-05-03 06:24:27
+SCRIPT_NAME: /public/index.php at 2025-05-03 06:24:27
+Normalized URI: /register at 2025-05-03 06:24:27
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:25:26
+REQUEST_URI: /dashboard at 2025-05-03 06:25:26
+SCRIPT_NAME: /public/index.php at 2025-05-03 06:25:26
+Normalized URI: /dashboard at 2025-05-03 06:25:26
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:25:26
+REQUEST_URI: /login at 2025-05-03 06:25:26
+SCRIPT_NAME: /public/index.php at 2025-05-03 06:25:26
+Normalized URI: /login at 2025-05-03 06:25:26
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:25:31
+REQUEST_URI: /template at 2025-05-03 06:25:31
+SCRIPT_NAME: /public/index.php at 2025-05-03 06:25:31
+Normalized URI: /template at 2025-05-03 06:25:31
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:25:31
+REQUEST_URI: /login at 2025-05-03 06:25:31
+SCRIPT_NAME: /public/index.php at 2025-05-03 06:25:31
+Normalized URI: /login at 2025-05-03 06:25:31
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:25:35
+REQUEST_URI: /maintenance at 2025-05-03 06:25:35
+SCRIPT_NAME: /public/index.php at 2025-05-03 06:25:35
+Normalized URI: /maintenance at 2025-05-03 06:25:35
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:25:36
+REQUEST_URI: /assets/img/maintain.png at 2025-05-03 06:25:36
+SCRIPT_NAME: /public/index.php at 2025-05-03 06:25:36
+Normalized URI: /assets/img/maintain.png at 2025-05-03 06:25:36
+BASE_PATH: /home/u571375065/domains/theraccoon.dev/public_html/epicclub-reborn at 2025-05-03 06:25:41
+REQUEST_URI: / at 2025-05-03 06:25:41
+SCRIPT_NAME: /public/index.php at 2025-05-03 06:25:41
+Normalized URI:  at 2025-05-03 06:25:41
